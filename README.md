@@ -1,4 +1,3 @@
-https://drillling-06-02.netlify.app/
 # https://drillling-06-02.netlify.app/
 ## https://drillling-06-02.netlify.app/
 ### https://drillling-06-02.netlify.app/
